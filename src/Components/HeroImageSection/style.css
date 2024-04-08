@@ -1,0 +1,56 @@
+.hero-img{
+    width: 100%;
+    height: auto;
+    opacity: 0.7;
+    object-fit: cover;
+}
+.image-curve-container{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.mobileImg{
+    position: absolute;
+    right: 268px;
+    top: 260px;
+  z-index: 1;
+  border-radius: 30px;
+}
+.image-text{
+    position: absolute;
+  z-index: 1;
+  bottom: 200px;
+  left: 135px;
+  width: 36%;
+}
+.image-text h3{
+    color: white;
+    letter-spacing: 0.248em;
+  line-height: 1.8;
+  font-size: 20px;
+    margin-bottom: 10px;
+}
+.image-text h1{
+    color: #E74561;
+    font-size: 45px;
+  line-height: 1.2;
+  letter-spacing: 0.063em;
+  font-weight: 900;
+    margin-bottom: 10px;
+}
+.image-text p{
+    color: white;
+    font-size: 16px;
+    line-height: 1.6;
+    letter-spacing: 0.075em;
+    text-align: justify;
+      margin-bottom: 10px;
+  
+}
+.image-text input{
+    margin: 10px;
+  padding: 11px;
+  width: 293px;
+  border-radius: 8px;
+  border: 2px solid white;
+}

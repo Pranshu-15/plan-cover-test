@@ -1,0 +1,11 @@
+button{     
+  border-radius: 12px;
+  background-color: #E8435F;
+  border: 2px solid #E8435F;
+  color: white;
+  font-size: large;
+  padding: 9px;
+  padding-left: 30px;
+  padding-right: 30px;
+  cursor: pointer;
+}

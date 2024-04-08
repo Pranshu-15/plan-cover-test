@@ -1,0 +1,24 @@
+.card{
+    /* background-color: black; */
+ 
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    margin-left: 50px;
+    padding: 30px;
+}
+.img{
+    width: 60%;
+    height: auto;
+    margin-left: 30px;
+
+}
+.heading{
+    text-align: center;
+  font-size: 34px;
+  letter-spacing: -0.062em;
+  color: #E97E8F;
+}
+.content{
+
+    text-align: center;
+}

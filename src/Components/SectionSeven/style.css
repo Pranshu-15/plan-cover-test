@@ -1,0 +1,12 @@
+.section-seven{
+  height: 85vh;
+  background-color: #F6F6FE;
+}
+.main-section{
+    text-align: center;
+}
+.big-card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

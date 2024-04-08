@@ -1,0 +1,53 @@
+.parent{
+    position: relative;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* position: sticky; */
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.nav-left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav-left ul{
+    display: flex;
+    justify-content: center;
+  align-items: center;
+}
+.nav-left ul li{
+    list-style: none;
+    padding: 10px;
+    cursor: pointer;
+}
+.nav-left h1{
+    color: black;
+}
+.nav-right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav-right ul{
+    display: flex;
+    justify-content: center;
+  align-items: center;
+}
+.nav-right ul li{
+    list-style: none;
+    padding: 10px;
+    cursor: pointer;
+    color: grey;
+}
+.nav-left ul li img{
+    height: 75px;
+    width: 75px;
+}
+.nav-right ul li:hover{
+    color: #F69FB0
+}

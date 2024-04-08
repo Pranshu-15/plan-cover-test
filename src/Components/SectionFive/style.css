@@ -1,0 +1,39 @@
+.section-five{
+    position: relative;
+    margin-top: 100px;
+    height: 90vh;
+}
+.heading-box{
+    text-align: center;
+}
+.hori-line2{
+    width: 5%;
+}
+.para{
+    padding-left: 200px;
+  padding-right: 200px;
+}
+.common{
+    position: absolute;
+    width: 12%;
+    border-radius: 25px;
+    margin-left: 100px;
+}
+.image-box{
+    margin-top: 30px;
+}
+.img1{
+    left: 300px;
+}
+.img2{
+    left: 400px;
+}
+.img3{
+    left: 700px;
+}
+.img4{
+    left: 600px;
+}
+.img5{
+    left: 500px;
+}

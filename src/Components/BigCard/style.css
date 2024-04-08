@@ -1,0 +1,26 @@
+.big-card {
+  width: 220px;
+  height: 365px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  margin-left: 80px;
+  margin-top: 60px;
+  text-align: center;
+  background-color: white;
+}
+.big-card-box {
+  margin-top: 10px;
+}
+.card-price{
+    font-size: 50px;
+    color: #E8445F;;
+}
+
+.big-card-hr {
+  width: 88%;
+  margin-left: 9px;
+  margin-top: 8px;
+  color: #f7f8fc;
+}
+.btn-box {
+  margin-top: 16px;
+}
